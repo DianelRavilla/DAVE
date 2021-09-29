@@ -47,13 +47,13 @@ Specific Descriptions
 
 Level 1______________________________________________________
 
-	This level includes basic encryption algorithms that change the original value into a specific code (A0 FORM). The algorithm will remove the brackets and punctuation marks to concatenate the values in a single line without spaces. Depending on the latest character, “.” For uppercase and “-” for lowercase. Example:
+This level includes basic encryption algorithms that change the original value into a specific code (A0 FORM). The algorithm will remove the brackets and punctuation marks to concatenate the values in a single line without spaces. Depending on the latest character, “.” For uppercase and “-” for lowercase. Example:
 
 The program takes only the middle part (between punctuation and brackets), 10 characters for vowels, 5 characters for consonants and 8 characters for numbers. Characters in this level are not encrypted.
 
 level 2______________________________________________________
 
-	This level is pretty similar to the previous one. Its characteristic is that vowels can change its value between 3 different codes. (A1 FORM). Encryption for Special Characters are available on this level (A0 FORM).
+This level is pretty similar to the previous one. Its characteristic is that vowels can change its value between 3 different codes. (A1 FORM). Encryption for Special Characters are available on this level (A0 FORM).
 
 
 The program takes only the middle part (between punctuation and brackets), 10 characters for vowels, 5 characters for consonants, 8 characters for numbers and 6 characters for special Characters.
