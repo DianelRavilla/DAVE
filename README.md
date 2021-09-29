@@ -1,7 +1,6 @@
 # DAVE
 
 CODIFICATION PROGRAM – (Digital Audio for Visual Encryption)
-![image](https://user-images.githubusercontent.com/57459152/135192384-fae5da5d-f5fe-4609-b17d-02c66c2f910d.png)
 
 Serial KEY : DRSE-AETD-VGES-0706-EIR-UITE-XGGA-ESGO-BGPA-ALED-2508
 
@@ -66,33 +65,24 @@ Level 1______________________________________________________
 
 	This level includes basic encryption algorithms that change the original value into a specific code (A0 FORM). The algorithm will remove the brackets and punctuation marks to concatenate the values in a single line without spaces. Depending on the latest character, “.” For uppercase and “-” for lowercase. Example:
 
-![image](https://user-images.githubusercontent.com/57459152/135192609-39695da5-11e8-40f7-8e3b-f78ad9bcf7f1.png)
-
 The program takes only the middle part (between punctuation and brackets), 10 characters for vowels, 5 characters for consonants and 8 characters for numbers. Characters in this level are not encrypted.
 
 level 2______________________________________________________
 
 	This level is pretty similar to the previous one. Its characteristic is that vowels can change its value between 3 different codes. (A1 FORM). Encryption for Special Characters are available on this level (A0 FORM).
 
-![image](https://user-images.githubusercontent.com/57459152/135192639-3350f810-6d95-4b71-9928-73b5d2a87d71.png)
 
 The program takes only the middle part (between punctuation and brackets), 10 characters for vowels, 5 characters for consonants, 8 characters for numbers and 6 characters for special Characters.
 
 level 3______________________________________________________
 
 This level change inversely the characters to identify the character. (A2 FORM)
-Word	Final 
-Hello World	Svool<1fJoSr182c>Dliow-345678
-
-![image](https://user-images.githubusercontent.com/57459152/135192652-81f892bd-d960-4c7d-a5d3-fed0b3772770.png)
 
 Engine____________________________________________
-![image](https://user-images.githubusercontent.com/57459152/135192664-350215e6-f955-4407-ae01-88c2cea4de0f.png)
 
 This Algorithm is the way the message can be visible and how it is going to be read. It was made using NAudio Library for C#.
 
 DAVE Engine is a TFFT analyzer, which can read, collect an graph the digital audio’s frequency spectrum.
-![Uploading image.png…]()
 
 It is high recommended to not change the technic values of the Analyzer in order to make it sure and easy to use. CHANGE THEM ONLY IF YOU KNOW WHAT YOU ARE DOING. The Engine will work perfectly under the specific set-up configuration.
 
