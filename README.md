@@ -4,22 +4,6 @@ CODIFICATION PROGRAM – (Digital Audio for Visual Encryption)
 
 Serial KEY : DRSE-AETD-VGES-0706-EIR-UITE-XGGA-ESGO-BGPA-ALED-2508
 
-Table of Contents
-PRIMARY LENGUAGE:	3
-Parameters:	3
-General Descriptions	4
-level 1:	4
-Level 2:	4
-Level 3:	4
-Specific Descriptions	5
-Level 1	5
-level 2	5
-level 3	6
-Engine	6
-A0 FORM ::: Main Codes	7
-A1 FORM ::: Replaced Codes	8
-A2 FORM ::: Inverse Process	9
-
 PRIMARY LENGUAGE:	
 	The used Alphabet const of 27 letters, numbers from 0 to 9 and some of the most used special characters. The user will not be able to see this manual, or the main code in the program. There are 5 levels of encryption, also how they work is included in this manual. Nevertheless, it is a must to have the program for some of the procedures that involve the de-codification.
 Parameters:
